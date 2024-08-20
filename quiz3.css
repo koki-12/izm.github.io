@@ -1,0 +1,34 @@
+.entrance{
+    background-image: url(フランクフルト.png);
+    background-size: 80px 80px;
+}
+
+h1{
+    background-color: rgba(234, 146, 32, 0.429);
+    padding: 5px;
+    width: auto;
+}
+
+.home{
+    padding: 100px;
+}
+
+div{
+    text-align: center;
+    font-size: 200%;
+}
+
+button{
+    width: 120px;
+    height: 40px;
+}
+
+img#correct{
+    top: 50px;
+    margin: auto;
+}
+
+img#wrong{
+    top: 50px;
+    margin: auto;
+}
